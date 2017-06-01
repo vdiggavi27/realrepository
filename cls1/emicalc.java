@@ -11,7 +11,7 @@ public class emicalc {
 		
 //		enter amount
 		  fd.findElement(By.id("one")).sendKeys("10000");
-		 
+		 //comment
 		
 //		Enter rate of intr=erest
 		  fd.findElement(By.id("two")).sendKeys("10");
